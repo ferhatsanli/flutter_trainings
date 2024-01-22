@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-[a relative link](lib/main.dart)
+[Dart file](lib/main.dart)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
