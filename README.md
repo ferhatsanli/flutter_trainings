@@ -1,6 +1,6 @@
 # hello_flutter
 
-A new Flutter project.
+My first Flutter project. Hello Flutter !!!
 
 [Dart file](lib/main.dart)
 ## Getting Started
